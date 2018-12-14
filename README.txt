@@ -1,0 +1,1 @@
+A basic JavaScript based web application that returns GIFs as searched, using jquery and GIPHY's API. The number of search results has been limited to 12 in order to make the results load faster, as this is only an experimental project.
